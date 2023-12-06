@@ -1,16 +1,8 @@
-# notesp
+# Notes Application using Flutter and Shared Preferences
+This is a simple notes application developed using Flutter that allows users to create, view, edit, and delete notes. The application uses shared preferences to locally store and manage the notes.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+Create Notes: Users can create new notes by entering a title and description.
+View Notes: Display a list of all saved notes with their titles and previews.
+Edit Notes: Modify the content of existing notes.
+Delete Notes: Remove notes from the list.
